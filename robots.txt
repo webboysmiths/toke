@@ -1,0 +1,4 @@
+user-agent: *
+allow: /
+
+sitemap: https://webboysmiths.github.io/toke/sitemap_index.xml
